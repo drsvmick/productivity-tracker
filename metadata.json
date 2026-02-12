@@ -1,0 +1,5 @@
+{
+  "name": "Productivity Points Tracker",
+  "description": "A gamified productivity tracker that calculates daily scores based on study, health, and habits, with AI-powered insights and CSV export for Google Drive.",
+  "requestFramePermissions": []
+}
